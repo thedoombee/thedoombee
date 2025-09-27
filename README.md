@@ -1,11 +1,11 @@
 #  Salut, je suis Nathan
 
-##  Portfolio
+##  PORTFOLIO
  https://nathanthedoombee.vercel.app/
 
-##  Mail
+##  MAIL
 ephrema248@gmail.com
 
-##  Social
-- https://www.instagram.com/_nethaneel/
-- https://www.linkedin.com/in/nathan-akakpo-148b0a367/
+## SOCIAL
+- [Instagram](https://www.instagram.com/_nethaneel/)
+- [Linkedin](https://www.linkedin.com/in/nathan-akakpo-148b0a367/)
