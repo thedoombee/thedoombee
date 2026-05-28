@@ -11,4 +11,4 @@ ephrema248@gmail.com
 - [Linkedin](https://www.linkedin.com/in/nathan-akakpo-148b0a367/)
 
 ## SOME PROJECTS
- - https://ogfactory.vercel.app/
+ - https://factory-xi-two.vercel.app/
